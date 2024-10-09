@@ -15,14 +15,18 @@ We will demonstrate the new functionality via several materials optimisation cas
 ## Phase 1 - Research of background literature:
    * Bayesian optimisation basics
    * GitHub and code basics
+
 ## Phase 2 - Improvement of Web-BO user experience:
    * Familiarisation with Web-BO current functionality
    * Identification of 3 features to improve
    * Implementation of enhanced features
-   * Selection of one or more chemistry-based case studies to test functionality  
+   * Selection of one or more chemistry-based case studies to test functionality
+     
 ## Phase 3 - Extension of Web-BO functionality:
    * Implement multi-objective optimisation
    * Introduce additional surrogate models
+
+
 ## Phase 4 - Testing stage:
    * Finalise chosen case studies
    * Test Web-BO via case study
