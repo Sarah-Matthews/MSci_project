@@ -16,6 +16,7 @@ We will demonstrate the new functionality via several materials optimisation cas
    * Bayesian optimisation basics
    * GitHub and code basics
 
+This first phase will largely consist of compiling a literature base to gain a deeper understanding of the  Bayesian Optimisation process, including (acquisition functions, surrogate models)
 ## Phase 2 - Improvement of Web-BO user experience:
    * Familiarisation with Web-BO current functionality
    * Identification of 3 features to improve
