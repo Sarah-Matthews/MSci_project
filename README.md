@@ -21,7 +21,7 @@ This first phase will primarily involve compiling a literature base to gain a de
    * Implementation of enhanced features
    * Selection of one or more chemistry-based case studies to test functionality
 
-The second phase will be a general exploration of Web-BO in its current form to evaluate its current functionality and identify areas for improvement. This phase will largely focus on ehhancing the user experience of Web-BO.
+The second phase will be a general exploration of Web-BO in its current form to evaluate its current functionality and identify areas for improvement. This phase will largely focus on enhancing the user experience of Web-BO.
 
 Further, several chemistry and/or materials-based case studies will be selected to allow for subsequent testing of Web-BO's functionality. We will likely leverage the open-source framework Summit,  which provides several ‘virtual-laboratory’ chemical optimisation benchmarks to evaluate machine learning model performance without performing expensive experiments. The first benchmark offers a four-dimensional multi-objective optimisation example for the nucleophilic substitution reaction (SNAr) between difluoronitrobenzene and pyrrolidine. The optimisation targets a maximisation of space time yield while minimising the E-factor (the ratio of product to waste production).
 
