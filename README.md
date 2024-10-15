@@ -29,7 +29,7 @@ Further, several chemistry and/or materials-based case studies will be selected 
    * Implement multi-objective optimisation
    * Introduce additional surrogate models
 
-This phase will extend the functionality of Web-BO to incorporate multi-fidelity optimisation, enabling the optimisation of more than one target simultaneously, such as maximising yield whilst keeping reactant costs low. Currently Web-BO uses gaussian processes as its surrogate model via the bayBE back-end, but different datasets may benefit from alternative surrogate models. To address this, additional surrogate models will be integrated into Web-BO to facilitate more accurate approximations of objective functions in these cases.
+This phase will extend the functionality of Web-BO to incorporate multi-objective optimisation, enabling the optimisation of more than one target simultaneously, such as maximising yield whilst keeping reactant costs low. Currently Web-BO uses gaussian processes as its surrogate model via the bayBE back-end, but different datasets may benefit from alternative surrogate models. To address this, additional surrogate models will be integrated into Web-BO to facilitate more accurate approximations of objective functions in these cases.
 
 ## Phase 4 - Testing stage:
    * Finalise chosen case studies
