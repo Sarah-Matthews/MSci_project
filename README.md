@@ -1,6 +1,18 @@
 # MSci_project
 
-# Overview
+Relevant files can be found within the following repositories:
+
+- #### BayBE vs BoFire benchmarking (MOBO)
+  repository: benchmarking_MOBO ([https://github.com/Sarah-Matthews/benchmarking_MOBO](https://github.com/Sarah-Matthews/benchmarking_MOBO))
+- #### Multi-fidelity optimisation benchmarking
+  repository: MFBO-case-study ([https://github.com/Sarah-Matthews/MFBO-case-study](https://github.com/Sarah-Matthews/MFBO-case-study))
+- #### Web-BO branch with my modifications
+  repository: WebBO ([https://github.com/Sarah-Matthews/webBO](https://github.com/Sarah-Matthews/webBO))
+
+
+
+
+# Project overview
 
 The Jelfs group has recently developed Web-BO, a Graphical User Interface (GUI) to support Bayesian Optimisation for chemical optimisation tasks. Web-BO is a modular platform that allows users without any coding experience to easily apply BO algorithms to chemical optimisation applications. Presently, Web-BO supports single-objective chemical optimisation tasks – where one parameter is being optimised sequentially.
 
